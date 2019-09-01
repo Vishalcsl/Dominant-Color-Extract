@@ -1,0 +1,1 @@
+# This Model uses KMeans Clustering algorithm for dominant color extraction.
